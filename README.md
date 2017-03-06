@@ -11,7 +11,3 @@ You can type the following command if you want to clone this repository:
 ```shell
 git clone git@github.com:geerc/fs102Spring2017-presentation1-geerc.git
 ```
-
-```shell
-serve 4100
-```
