@@ -1,6 +1,6 @@
 ##How Your GPS Effects Your Brain
 
-This repository contains the HTML source code and additional resources for a presentation by Christian Geer about GPS navigation. The presentation's source code uses the reveal.js framework to control the display of each slide. You can find the presentation [here](https://cdn.rawgit.com/geerc/fs102Spring2017-presentation1-geerc/d7a3ed30/quigleytownhall_presentation.html)
+This repository contains the HTML source code and additional resources for a presentation by Christian Geer about GPS navigation. The presentation's source code uses the reveal.js framework to control the display of each slide. You can find the presentation [here](https://cdn.rawgit.com/geerc/fs102Spring2017-presentation1-geerc/6f2891e5/quigleytownhall_presentation.html)
 
 You are welcome to use these slides as inspiration for your own presentation.
 
